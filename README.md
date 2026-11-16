@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmdWZ6eW54ZmR5eWJ6eXk1bHl4N3R5eWJ6eXk1bHl4N3R5eWJ6eXk1JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150" alt="Miku Gif"/> 
+  <img src="https://media.tenor.com/vIcOIzntHsYAAAAM/hatsune-miku-miku.gif" width="150" alt="Miku Gif"/> 
   <h1>Hi there, I'm ukiM enustaH 👋</h1>
   <p><b>Just a Vietnamese guy breaking things to learn how they work.</b></p>
 </div>
